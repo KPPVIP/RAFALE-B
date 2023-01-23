@@ -1,0 +1,34 @@
+Rafale B
+--------
+
+
+Features:
+-Realistic exterior and interior
+-Custom weapons
+-Working lights
+-Normal and specular maps
+
+Model bought and provided: Voltrock
+Modelling of smaller minor parts, converted and edited by: SkylineGTRFreak
+
+Please mention me and my YouTube channel ( https://www.youtube.com/user/SkylineGTRR34Freak ) if you're making a video of this.
+
+-----------------------------------------------------------------------------
+Instructions [Add-On]:
+
+1. Place the "rafaleb" folder into [Gamefolder]\update\X64\dlcpacks\
+
+2. With OpenIV, extract [Game folder]\update\update.rpf\common\data\dlclist.xml and edit this with Notepad++. Add the following entry:
+		<Item>dlcpacks:\rafaleb\</Item>
+
+Vehicle spawn name:
+rafaleb
+
+
+You can remove the fuel drop tanks via vehicle tuning menu.
+
+
+If you're game crashes on startup, download a custom gameconfig.xml for your update.rpf. Example: https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
